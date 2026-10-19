@@ -1,0 +1,13 @@
+#------- HARD SCENARIO ---------
+
+# # Client / Freontend
+#         |
+# # Routes/ Controller - Handle API request and responses. 
+#         |
+# # Validation - Check input data.
+#         |
+# # BUsiness Logic/Service - Handle Business rules.
+#         |
+# # repository - Handle database operations.
+#         |
+# # Database - Store data.
